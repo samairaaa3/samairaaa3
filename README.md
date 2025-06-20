@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samaira
+# 👋 Hi, I'm Samaira 
 - 🎓 Second-year Data Science student at Simon Fraser University  
 -💡 Passionate about AI, data analysis, and building smart solutions  
 -🌱 Currently exploring: Machine Learning, Search Algorithms, Web Scraping  
