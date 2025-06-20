@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @samairaaa3
-- 👀 I’m interested in working on projects to build my resume 
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on projects related to big data
-- 📫 How to reach me ig: samairaaa3
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i am a pro monopoly player
+- 👋 Hi, I’m Samaira
+- 🎓 Second-year Data Science student at Simon Fraser University  
+-💡 Passionate about AI, data analysis, and building smart solutions  
+-🌱 Currently exploring: Machine Learning, Search Algorithms, Web Scraping  
+-📌 Based in: Burnaby, BC | Originally from Amritsar, India  
+-📫 Reach me: samairaaa3@icloud.com
+---
+
+## 🛠️ Skills & Tools
+
+-Languages: Python, R, SQL, C++, HTML/CSS  
+-Libraries/Tools: Pandas, NumPy, scikit-learn, Tableau, PowerBI, ggplot, Jupyter, Tkinter  
+-Concepts: Data structures, algorithms, machine learning, AI search, recursion, graph theory  
+
+## 🌐 Let's Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/samaira3/)  
+  
 
 <!---
 samairaaa3/samairaaa3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
