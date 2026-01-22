@@ -1,9 +1,9 @@
 #  Hi, I'm Samaira 
--  Second-year Data Science student at Simon Fraser University  
+-  Third-year Data Science with minor in Computing Science student at Simon Fraser University  
 -  Passionate about AI, data analysis, and building smart solutions  
 -  Currently exploring: Machine Learning, Search Algorithms, Data Wrangling  
 -  Based in: Burnaby, BC | Originally from Amritsar, India  
--  Reach me: samairaaa3@icloud.com
+-  Reach me: ssa602@icloud.com
 ---
 
 ##  Skills & Tools
